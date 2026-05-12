@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Ruth Benitha. I am a student interested in technology and learning Git and GitHub. I enjoy improving my computer skills and learning how developers collaborate on projects.
+
+This repository was created as part of my GitHub learning journey. I hope to gain more experience using version control and working on projects.
